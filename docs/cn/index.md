@@ -12,7 +12,7 @@
 
 ## 简介
 
-SRS PHP Client 是一个功能强大且便捷的客户端，用于与 SRS（Simple RTMP Server）API 进行交互。该库为管理 RTMP 服务器、监控流和获取统计信息提供了简单直观的接口。
+SRS PHP Client 是一个功能强大且便捷的客户端，用于与 SRS（Simple Realtime Server）API 进行交互。该库为管理 RTMP 服务器、监控流和获取统计信息提供了简单直观的接口。
 
 ### 主要特性
 

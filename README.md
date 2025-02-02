@@ -1,6 +1,6 @@
 # SRS PHP Client
 
-PHP client for interacting with SRS (Simple RTMP Server) API.
+PHP client for interacting with SRS (Simple Realtime Server) API.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/sangezar/srs-php-client.svg?style=flat-square)](https://packagist.org/packages/sangezar/srs-php-client)
 [![Total Downloads](https://img.shields.io/packagist/dt/sangezar/srs-php-client.svg?style=flat-square)](https://packagist.org/packages/sangezar/srs-php-client)

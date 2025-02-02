@@ -12,7 +12,7 @@
 
 ## Introduction
 
-SRS PHP Client is a powerful and convenient client for interacting with the SRS (Simple RTMP Server) API. The library provides a simple and intuitive interface for managing RTMP server, monitoring streams, and obtaining statistics.
+SRS PHP Client is a powerful and convenient client for interacting with the SRS (Simple Realtime Server) API. The library provides a simple and intuitive interface for managing RTMP server, monitoring streams, and obtaining statistics.
 
 ### Key Features
 
