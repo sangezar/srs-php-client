@@ -2,7 +2,6 @@
     "name": "sangezar/srs-php-client",
     "description": "PHP client for SRS (Simple Realtime Server) API",
     "type": "library",
-    "version": "1.0.0",
     "keywords": ["srs", "streaming", "api-client", "rtmp", "srt", "rtmp-server", "rtmp-client", "rtmp-streaming"],
     "minimum-stability": "stable",
     "prefer-stable": true,
